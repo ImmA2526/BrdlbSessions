@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Basic__AllSession/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Basic__AllSession.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Basic__AllSession.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic__AllSession/1.0.0": {
+      "type": "project",
+      "path": "../All__BasicSession/Basic__AllSession.csproj",
+      "msbuildProject": "../All__BasicSession/Basic__AllSession.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Basic__AllSession >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\imran\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\imran\\Desktop\\C#DotNet\\Programs\\BasicAll__Session\\NameSpaceTwo\\NameSpaceTwo.csproj",
+      "projectName": "NameSpaceTwo",
+      "projectPath": "C:\\Users\\imran\\Desktop\\C#DotNet\\Programs\\BasicAll__Session\\NameSpaceTwo\\NameSpaceTwo.csproj",
+      "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\imran\\Desktop\\C#DotNet\\Programs\\BasicAll__Session\\NameSpaceTwo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\DotNetPackages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\imran\\Desktop\\C#DotNet\\Programs\\BasicAll__Session\\All__BasicSession\\Basic__AllSession.csproj": {
+              "projectPath": "C:\\Users\\imran\\Desktop\\C#DotNet\\Programs\\BasicAll__Session\\All__BasicSession\\Basic__AllSession.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

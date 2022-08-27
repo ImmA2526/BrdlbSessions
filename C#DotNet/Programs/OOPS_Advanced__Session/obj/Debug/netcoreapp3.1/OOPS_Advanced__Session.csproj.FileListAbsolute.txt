@@ -1,0 +1,14 @@
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\bin\Debug\netcoreapp3.1\OOPS_Advanced__Session.exe
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\bin\Debug\netcoreapp3.1\OOPS_Advanced__Session.deps.json
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\bin\Debug\netcoreapp3.1\OOPS_Advanced__Session.runtimeconfig.json
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\bin\Debug\netcoreapp3.1\OOPS_Advanced__Session.runtimeconfig.dev.json
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\bin\Debug\netcoreapp3.1\OOPS_Advanced__Session.dll
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\bin\Debug\netcoreapp3.1\OOPS_Advanced__Session.pdb
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.AssemblyInfoInputs.cache
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.AssemblyInfo.cs
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.csproj.CoreCompileInputs.cache
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.dll
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.pdb
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.genruntimeconfig.cache
+C:\Users\imran\Desktop\C#DotNet\Programs\OOPS_Advanced__Session\obj\Debug\netcoreapp3.1\OOPS_Advanced__Session.csproj.AssemblyReference.cache
